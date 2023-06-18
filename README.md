@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 find me ...+6283189876675 (WA only)
-
+<img src="https://media0.giphy.com/media/1moKTXQYRjOL6mwGo1/giphy.gif?cid=ecf05e47sbd7bbs3gt4qwcb06luq48r2x66ywvbjbefqfsaz&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 <!---
 fredoananda/fredoananda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
